@@ -7,9 +7,9 @@
 
 - 🔭 I worked on [BookStore Ecommerce](https://bookstoresite.runasp.net/)
 
-- 🌱 I’m currently learning **Angular**
+- 👯 Graduation project : [Lost Children](https://lostchildren.runasp.net/)
 
-- 👯 Graduation project : **Lost Children**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **moazalaa1812@gmail.com**
 
